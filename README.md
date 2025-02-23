@@ -1,6 +1,14 @@
-# WebApp Musical Artist
-"My website artist that showcases my best work, projects, and achievements as a professional. It demonstrates my skills, experience, and working style."
+🚀 WebApp Musical Artist 🔥
 
-![Immagine 2025-02-23 014933](https://github.com/user-attachments/assets/19a5dfb8-baaa-4154-952c-b36faec1660b)
-![Screenshot 2025-02-23 013810](https://github.com/user-attachments/assets/a270e4f8-f6cc-4d63-8d39-2165df671b1f)
-![Immagine 2025-02-23 015003](https://github.com/user-attachments/assets/eea4b10e-4ba6-4a11-8bc9-13b36611eb5d)
+A personal artist website that showcases my best work, projects, and achievements as a professional. It demonstrates my skills, experience, and working style through an engaging online presence.
+
+Animation with Framer Motion 🎬 + React ⚛️ for smooth, interactive animations.
+
+![portfoliomusicale](https://github.com/user-attachments/assets/9fa5bac8-b176-412b-bfc8-ddad9f054917)
+![Immagine 2025-02-23 015003](https://github.com/user-attachments/assets/f465a5fd-b7a2-47e1-8cc8-48943ebf86f4)
+![Immagine 2025-02-23 014933](https://github.com/user-attachments/assets/371eb7a0-f33d-48cc-a1c8-7a7369c87fa6)
+![Immagine 2025-02-23 015841](https://github.com/user-attachments/assets/424d0a80-c0bf-404b-944b-791f0bef99cf)
+
+My experience with the Musical Artist WebApp:
+This web app was created to showcase my music career in a visually captivating way. React was used to build a dynamic and responsive layout, while Framer Motion brought life to the website with smooth animations that engage visitors. It's the perfect portfolio to highlight my work, from projects to performances, allowing fans and collaborators to see my professional journey and creative process in action!
+
